@@ -84,7 +84,7 @@ CV Hero
 */
 
 .cvhero {
-	background-image: linear-gradient(to right, rgba(255,255,255,0) 10%, rgba(255,255,255,0), rgba(255,255,255,0)), url("../img/bckgd1.jpg");
+	background-image: linear-gradient(to right, rgba(255,255,255,0) 10%, rgba(255,255,255,0), rgba(255,255,255,0)), url("../images/bckgd1.jpg");
   	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
@@ -183,4 +183,3 @@ SMALL
 }
 
 
-/
