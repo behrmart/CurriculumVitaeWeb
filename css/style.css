@@ -92,7 +92,10 @@ CV Hero
   	color: #fff;
 }
 
-
+.cvhero h1 {
+	padding: auto;
+	margin: auto;
+}
 /* 
 -------------------- 
 FOOTER
