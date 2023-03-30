@@ -98,7 +98,15 @@ CV Hero
 }
 
 .aboutme {
+	background-color: #e9e5eb;
+	justify-content: end;
+}
+
+.aboutmeimage {
 	background-color: #9B85BE;
+}
+.aboutmetext {
+	background-color: #e9e5eb;
 }
 /* 
 -------------------- 
