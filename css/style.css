@@ -46,23 +46,11 @@ html, body {
 	width: 100%;
 	font-family: 'NeoSansStdRegular';
 	color: #4C2F60;
+	border-color: #9B85BE;
 	}
 
 .boldfont {
 	font-family: "NeoSansStdBold";
-}
-
-.moradobg {
-	background-color: #4C2F60;
-	border-color: #9B85BE;
-}
-
-.moradogb:hover {
-	background-color: #9B85BE;
-}
-
-.whitetext {
-	color: #fff;
 }
 
 a {
@@ -72,8 +60,6 @@ a {
 a:hover {
 	color: #9B85BE;
 }
-
-
 
 
 
@@ -107,6 +93,14 @@ CV Hero
 }
 .aboutmetext {
 	background-color: #e9e5eb;
+}
+
+.education {
+	background-image: linear-gradient(to right, rgba(255,255,255,0) 10%, rgba(255,255,255,0), rgba(255,255,255,0)), url("../images/backgd_blanco.jpg");
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
 }
 /* 
 -------------------- 
