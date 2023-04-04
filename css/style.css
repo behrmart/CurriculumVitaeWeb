@@ -84,23 +84,35 @@ CV Hero
 }
 
 .aboutme {
-	background-color: #e9e5eb;
+	background-color: #E9D9FF; 
+	border-radius: 100px 10px 100px 10px;
+	color: #4C2F60;
 	justify-content: end;
 }
 
 .aboutmeimage {
 	background-color: #9B85BE;
-}
-.aboutmetext {
-	background-color: #e9e5eb;
+	border-radius: 100px 10px 100px 100px;
 }
 
 .education {
+	background-color: #D9C1DE;
+	border-radius: 10px 100px 10px 100px; 
+	color: #4C2F60;
+	justify-content: start;
+}
+
+.workexperience{
 	background-image: linear-gradient(to right, rgba(255,255,255,0) 10%, rgba(255,255,255,0), rgba(255,255,255,0)), url("../images/backgd_blanco.jpg");
   	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
   	position: relative;
+}
+
+.workexperiencetext {
+	border-radius: 10px 100px 10px 100px; 
+	color: #4C2F60;
 }
 /* 
 -------------------- 
