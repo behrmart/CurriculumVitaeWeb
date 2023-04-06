@@ -114,6 +114,21 @@ CV Hero
 	border-radius: 10px 100px 10px 100px; 
 	color: #4C2F60;
 }
+
+
+.skills {
+	background-image: linear-gradient(to right, rgba(255,255,255,0) 10%, rgba(255,255,255,0), rgba(255,255,255,0)), url("../images/bckgd2_2.jpg");
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+	color: white;
+	
+}
+
+.skills1cont {
+	border-radius: 10px 100px 10px 100px; 
+}
 /* 
 -------------------- 
 FOOTER
