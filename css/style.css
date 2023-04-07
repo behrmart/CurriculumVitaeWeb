@@ -78,10 +78,6 @@ CV Hero
   	color: #fff;
 }
 
-.cvhero h1 {
-	padding: auto;
-	margin: auto;
-}
 
 .aboutme {
 	background-color: #E9D9FF; 
@@ -129,6 +125,13 @@ CV Hero
 .skills1cont {
 	border-radius: 10px 100px 10px 100px; 
 }
+
+.contacto{
+	background-color: white; 
+	border-radius: 100px 10px 100px 10px;
+	color: #4C2F60;
+	justify-content: end;
+}
 /* 
 -------------------- 
 FOOTER
@@ -159,63 +162,32 @@ Media Queries
 LARGE
 --------------------
 */
-@media (max-width: 992px) {
+/* @media (max-width: 992px) {
 
-	html, body {
-	font-size: large;
-	}
   }
 
-@media (max-width: 800px) {	          /* ----------kindle fire HDX* --------------*/
-  	.carouselprev1 {
-  		width:70%;
-  	}
+@media (max-width: 800px) {	          
+  	
 }
  
-/* 
+
 -------------------- 
 MEDIUM
 --------------------
 */  
-@media (max-width: 768px) {    /*--------------- iPad -----------------------*/
+/* @media (max-width: 768px) {    
 
-	
-	.menufooter1 {
-		text-align: center;
-	}
-
-	.menufooter2 {
-		text-align: center;
-	}	
-
-	.menufooter3 {
-		text-align: center;
-	}
-	
-}
-
+}	
+	 */
 /* 
 -------------------- 
 SMALL
 --------------------
 */
 
-@media (max-width: 576px) { /*--------------- iPhone -----------------------*/
+/* @media (max-width: 576px) { 
   
 	
-	.menufooter1 {
-		text-align: center;
-	}
-
-	.menufooter2 {
-		text-align: center;
-	}	
-
-	.menufooter3 {
-		text-align: center;
-	}
-
-
-}
+}	 */
 
 
